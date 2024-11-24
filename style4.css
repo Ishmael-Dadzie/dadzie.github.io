@@ -1,0 +1,20 @@
+body{
+	background:#ffffcc;
+	padding:20 10;
+	margin:50;
+}
+
+
+.text{
+	font-size:70px;
+	font-family:Castellar;
+	text-align:center;
+	margin-top:30px;
+}
+.text1{
+	font-size:20px;
+	font-family:Constantia;
+}
+.text1 h2{
+	font-family:Castellar;
+}
